@@ -56,6 +56,10 @@ To get started with the project, follow these steps:
 
 Once the development server is running, you can access the project at `http://localhost:3000`. The main page will introduce the project and display the token valuation process based on the collected plastic waste.
 
+## Project presentation
+
+
+
 ## Token Information
 
 The deployed token can be found on the ICP mainnet. For more details, visit the [token repository](https://github.com/ndicu5156/TCN). 
